@@ -1,11 +1,11 @@
 import React from 'react'
-import LeftContent from './LeftContent'
+import LetfContent from './LetfContent'
 import RightContent from './RightContent'
 
 const Page1Content = () => {
   return (
-    <div className='py-10 flex justify-between items-center px-18 h-[90vh] bg-amber-950'>
-      <LeftContent/>
+    <div className='py-6 px-18  flex gap-10 items-center h-[90vh]'>
+      <LetfContent/>
       <RightContent/>
     </div>
   )
