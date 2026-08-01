@@ -12,7 +12,7 @@ const RightCardContent = () => {
           pariatur quos illo quaerat molestias non.
         </p>
         <div className="flex justify-between">
-          <button className="bg-blue-600 text-white font-medium px-8 py-2 rounded-full text-lg text-gray-600">
+          <button className="bg-blue-600 text-white font-medium px-8 py-2 rounded-full text-lg">
             Satisfied
           </button>
           <button className="bg-blue-600 text-white font-medium px-4 py-3 rounded-full text-lg">
