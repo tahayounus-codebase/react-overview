@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    /* font-size: 1.6rem; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    padding: 10px 70px;
+    background-color: gainsboro;
+    width: fit-content;
+    font-size: 1.8rem;
+    border-radius: 5px;
+    margin: 10px ;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px ;
+}
